@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 581f44de254557f45b9a02a2178337d3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: prop_plankpath_01
+    100004: prop_plankpath_01_collider
+    100006: prop_plankpath_01_p1
+    100008: prop_plankpath_01_p1_collider
+    100010: prop_plankpath_01_p2
+    100012: prop_plankpath_01_p2_collider
+    100014: prop_plankpath_01_p3
+    100016: prop_plankpath_01_p3_collider
+    100018: prop_plankpath_01_p4
+    100020: prop_plankpath_01_p4_collider
+    100022: prop_plankpath_01_p5
+    100024: prop_plankpath_01_p5_collider
+    100026: prop_plankpath_01_p6
+    100028: prop_plankpath_01_p6_collider
+    100030: prop_plankpath_01_p7
+    100032: prop_plankpath_01_p7_collider
+    100034: prop_plankpath_01_p8
+    100036: prop_plankpath_01_p8_collider
+    400000: //RootNode
+    400002: prop_plankpath_01
+    400004: prop_plankpath_01_collider
+    400006: prop_plankpath_01_p1
+    400008: prop_plankpath_01_p1_collider
+    400010: prop_plankpath_01_p2
+    400012: prop_plankpath_01_p2_collider
+    400014: prop_plankpath_01_p3
+    400016: prop_plankpath_01_p3_collider
+    400018: prop_plankpath_01_p4
+    400020: prop_plankpath_01_p4_collider
+    400022: prop_plankpath_01_p5
+    400024: prop_plankpath_01_p5_collider
+    400026: prop_plankpath_01_p6
+    400028: prop_plankpath_01_p6_collider
+    400030: prop_plankpath_01_p7
+    400032: prop_plankpath_01_p7_collider
+    400034: prop_plankpath_01_p8
+    400036: prop_plankpath_01_p8_collider
+    2300000: //RootNode
+    2300002: prop_plankpath_01
+    2300004: prop_plankpath_01_collider
+    2300006: prop_plankpath_01_p1
+    2300008: prop_plankpath_01_p1_collider
+    2300010: prop_plankpath_01_p2
+    2300012: prop_plankpath_01_p2_collider
+    2300014: prop_plankpath_01_p3
+    2300016: prop_plankpath_01_p3_collider
+    2300018: prop_plankpath_01_p4
+    2300020: prop_plankpath_01_p4_collider
+    2300022: prop_plankpath_01_p5
+    2300024: prop_plankpath_01_p5_collider
+    2300026: prop_plankpath_01_p6
+    2300028: prop_plankpath_01_p6_collider
+    2300030: prop_plankpath_01_p7
+    2300032: prop_plankpath_01_p7_collider
+    2300034: prop_plankpath_01_p8
+    2300036: prop_plankpath_01_p8_collider
+    3300000: //RootNode
+    3300002: prop_plankpath_01
+    3300004: prop_plankpath_01_collider
+    3300006: prop_plankpath_01_p1
+    3300008: prop_plankpath_01_p1_collider
+    3300010: prop_plankpath_01_p2
+    3300012: prop_plankpath_01_p2_collider
+    3300014: prop_plankpath_01_p3
+    3300016: prop_plankpath_01_p3_collider
+    3300018: prop_plankpath_01_p4
+    3300020: prop_plankpath_01_p4_collider
+    3300022: prop_plankpath_01_p5
+    3300024: prop_plankpath_01_p5_collider
+    3300026: prop_plankpath_01_p6
+    3300028: prop_plankpath_01_p6_collider
+    3300030: prop_plankpath_01_p7
+    3300032: prop_plankpath_01_p7_collider
+    3300034: prop_plankpath_01_p8
+    3300036: prop_plankpath_01_p8_collider
+    4300000: Plank_Little_road_All
+    4300002: prop_plankpath_01
+    4300004: prop_plankpath_01_collider
+    4300006: prop_plankpath_01_p1
+    4300008: prop_plankpath_01_p2
+    4300010: prop_plankpath_01_p3
+    4300012: prop_plankpath_01_p4
+    4300014: prop_plankpath_01_p5
+    4300016: prop_plankpath_01_p6
+    4300018: prop_plankpath_01_p7
+    4300020: prop_plankpath_01_p8
+    4300022: prop_plankpath_01_p6_collider
+    4300024: prop_plankpath_01_p7_collider
+    4300026: prop_plankpath_01_p1_collider
+    4300028: prop_plankpath_01_p2_collider
+    4300030: prop_plankpath_01_p4_collider
+    4300032: prop_plankpath_01_p5_collider
+    4300034: prop_plankpath_01_p3_collider
+    4300036: prop_plankpath_01_p8_collider
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 

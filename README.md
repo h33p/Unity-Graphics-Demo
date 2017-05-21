@@ -5,7 +5,7 @@ It is a demo, demonstrating the capabilities of the Unity 3D engine. With the fr
 
 It took around 7 hours to make the demo.
 
-My work is released under the MIT license (see LICENSE), everything inside GitHub is under the licenses of their respective owners. Everything inside the AssetStore folder is under the Asset Store license and every asset belongs to their respective owners. Everything inside TFP_Water folder is not owned by me, but the creator has given me a permission to redistribute everything inside the folder.
+My work is released under the MIT license (see LICENSE), everything inside GitHub is under the licenses of their respective owners. Everything inside the Asset Store folder is under the Asset Store license and every asset belongs to their respective owners. Everything inside TFP_Water folder is not owned by me, but the creator has given me a permission to redistribute everything inside the folder.
 
 ###### Downloads for the assets not owned by me:
 - Volumetric Lights: https://github.com/SlightlyMad/VolumetricLights
