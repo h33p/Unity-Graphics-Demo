@@ -1,0 +1,6 @@
+Free desaturate image effect by SixTimesNothing
+
+Blend SM2 and Blend SM3 shader by Tomasz Stobierski aka tomaszek (use only with assets in this package)
+
+package looks better with Relief shaders:
+http://u3d.as/content/tomasz-stobierski/rtp-relief-terrain-pack/3Jy
